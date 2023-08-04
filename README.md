@@ -34,11 +34,11 @@ TOTAL:         49.34
 
 
 ## Step 1: Getting Started
-Take a look at the [javadoc](https://csu-compsci-cs163-4.github.io/Lab10EncryptedMessageApp/package-summary.html) <--- UPDATE WHEN LINK EXISTS and take note of the methods you need 
+Take a look at the [javadoc](https://csu-compsci-cs163-4.github.io/Lab10PizzaOrder/) and take note of the methods you need 
 to create/implement. See what code has been provided and what still needs to be done. Brainstorm some ideas on how to implement these methods, and write your thoughts down.
 
 ## Step 2: Implementation
-Follow the [javadoc](https://csu-compsci-cs163-4.github.io/Lab12EncryptedMessageApp/package-summary.html) and write some code. Make sure to write tests for your code as you work on 
+Follow the [javadoc](https://csu-compsci-cs163-4.github.io/Lab10PizzaOrder/) and write some code. Make sure to write tests for your code as you work on 
 each method.
 
 ## Step 3: Finishing up
